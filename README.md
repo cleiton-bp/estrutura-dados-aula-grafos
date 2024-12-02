@@ -1,4 +1,4 @@
-# Otimização de Rotas entre Cidades
+# Rotas entre Cidades
 
 O objetivo é encontrar a rota mais eficiente entre duas cidades, considerando custos de transporte, distâncias e possíveis bloqueios de estradas.
 
